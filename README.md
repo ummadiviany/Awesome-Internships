@@ -1,5 +1,5 @@
 # Awesome-Internships
-
+Authors of this page are [Vinay]() ,[Irfan]() ,[Althaf]() 
 ## **Table of Contents:**
 
 - [Awesome-Internships](#awesome-internships)
@@ -42,9 +42,12 @@ Offering Institute & Link| Eligibility | Apply By  | Duration  | Stipend/ Financ
 [Summer Internship @ IIT Mandi](http://www.iitmandi.ac.in/academics/internship.php)|Second year of B.Tech. / B.E. students and 1st year PG or Masters Students.|April 30, 2020|8 weeks| Rs.10,000/- for entire 8 weeks.
 [Summer Internship @ IIT Ropar](http://www.iitrpr.ac.in/summer-internship/Application-Form)|All UG Students|NA|5 to 8 weeks|Rs.5000/- per month
 [Dept of CSE @ IIT Guwahati](https://www.iitg.ac.in/cse/summerinternship/)|All UG Students|March 31, 2020|15th May to 15th July, 2020|Only provided If faculty has a funding project
-[Dept of ME @ IIT Guwahati](https://www.iitg.ac.in/mech/summer_intern.php)|All UG Students|NA|Summer|Only provided If faculty has a funding project
+[Dept of ME @ IIT Guwahati](https://www.iitg.ac.in/mech/summer_intern.php)|All UG Students|NA|Summer 2020|Only provided If faculty has a funding project
 [BioEngineering Summer Training (BEST) Programme 2020 @ IISc](https://www.be.iisc.ac.in/BEST.html)|The programme is open to Undergraduates in their second or third year|Feb 14, 2020| 25th May 2020 to 24th July 2020|Fellowship amount of Rs.15,000.00 at the end of the program
 [IITBhubaneswar](https://www.iitbbs.ac.in/internship.php)|NA|NA|NA|NA
+[Internship Programme for Winter @ IITBhubaneswar](http://webapps.iitbbs.ac.in/internship-application/index.php)|NA|NA|NA|NA
+[Young Innovator Program @ IIT Jodhpur](http://iitj.ac.in/institute/index.php?id=young_innovator_program)|Students must have completed their IIIrd  Semester of B.E., B.Tech., B.Tech.-M.Tech. Dual Degree with academic performance of at least 65% or a 7.0 CPI/CGPA on a 10 point scale.|NA|NA|NA
+[SPARK @ IIT Roorkee](http://spark.iitr.ac.in/)|The objective of this programme is to attract and nurture talented undergraduate students across the country.|Feb 29, 2020|Summer 2020|₹2500/week
 
 
 
