@@ -28,8 +28,10 @@ This repository will help you to provide the internships fro Undergraduates and 
 Offering Institute & Link| Eligibility | Apply By  | Duration  | Stipend/ Financial Aid | 
 -------------------------|-------------|-----------|-----------|-----------------------|
 [IIT Palakkad](https://sun.iitpkd.ac.in/)| III rd and IV th year of their B.Tech degree|March 22, 2020|May 11, 2020 to June 19, 2020|Rs. 9000/- for the entire period
-
-[IIT GOA](https://www.iitgoa.ac.in/academic.php?pg=intern)| All students  of Bachelors/Masters program are eligible to apply. | |20 March 2020
+[IIT Goa](https://www.iitgoa.ac.in/academic.php?pg=intern)|All students of Bachelors/Masters program are eligible.|March 20, 2020| 6 to 10 Weeks|No Stipend
+[Ekalavya Summer Internship 2020 IIT Bombay](https://www.it.iitb.ac.in/summerinternship2020/)| B.Tech./B.E. 3rd year,  2nd year Students with exceptional academic performance |March 01, 2020|18th May 2020 to  07th July 2019|Rs. 10,000/- 
+[IIT(ISM) Dhanbad](https://www.iitism.ac.in//uploads/news_events/admin/03-02-2020-04:02:39_notices.pdf)|CGPA ≥7.5 for IITs/IIScb. CGPA ≥ 8.0 for NITs/ IISERs/ NISER/IIESTc.  CGPA ≥ 8.5 for students of other institutes.|NA| 8 weeks|  Rs  10,000/-for 08 weeks duration
+[SIRP IITGN](https://srip.iitgn.ac.in/info/)|
 
 
 
