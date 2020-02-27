@@ -41,6 +41,10 @@ Offering Institute & Link| Eligibility | Apply By  | Duration  | Stipend/ Financ
 [SFRP 2020 @ IIT Delhi](http://cepqip.iitd.ac.in/SFRP-2020.php)|Any undergraduate student who has completed/ appeared in 3rd year examination of his/her four year UG degree|April 07, 2020|19th May 2020 to 10th July 2020|Cost of travel (max. 3rd AC train fare),Stay at IIT Delhi,Fellowship/contingency of ₹500/- per week (Max. upto ₹2000/- only)
 [Summer Internship @ IIT Mandi](http://www.iitmandi.ac.in/academics/internship.php)|Second year of B.Tech. / B.E. students and 1st year PG or Masters Students.|April 30, 2020|8 weeks| Rs.10,000/- for entire 8 weeks.
 [Summer Internship @ IIT Ropar](http://www.iitrpr.ac.in/summer-internship/Application-Form)|All UG Students|NA|5 to 8 weeks|Rs.5000/- per month
+[Dept of CSE @ IIT Guwahati](https://www.iitg.ac.in/cse/summerinternship/)|All UG Students|March 31, 2020|15th May to 15th July, 2020|Only provided If faculty has a funding project
+[Dept of ME @ IIT Guwahati](https://www.iitg.ac.in/mech/summer_intern.php)|All UG Students|NA|Summer|Only provided If faculty has a funding project
+[BioEngineering Summer Training (BEST) Programme 2020 @ IISc](https://www.be.iisc.ac.in/BEST.html)|The programme is open to Undergraduates in their second or third year|Feb 14, 2020| 25th May 2020 to 24th July 2020|Fellowship amount of Rs.15,000.00 at the end of the program
+[IITBhubaneswar](https://www.iitbbs.ac.in/internship.php)|NA|NA|NA|NA
 
 
 
