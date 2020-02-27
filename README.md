@@ -1,5 +1,5 @@
 # Awesome-Internships
-Authors of this page are [Vinay]() ,[Irfan]() ,[Althaf]() 
+Authors of this page are [Vinay](https://www.linkedin.com/in/vinay-u-77100a139/) ,[Irfan](https://www.linkedin.com/in/p-irfan-basha-2a4864144/) ,[Althaf](https://www.linkedin.com/in/althaf-s-082b2a129/) 
 ## **Table of Contents:**
 
 - [Awesome-Internships](#awesome-internships)
@@ -48,6 +48,8 @@ Offering Institute & Link| Eligibility | Apply By  | Duration  | Stipend/ Financ
 [Internship Programme for Winter @ IITBhubaneswar](http://webapps.iitbbs.ac.in/internship-application/index.php)|NA|NA|NA|NA
 [Young Innovator Program @ IIT Jodhpur](http://iitj.ac.in/institute/index.php?id=young_innovator_program)|Students must have completed their IIIrd  Semester of B.E., B.Tech., B.Tech.-M.Tech. Dual Degree with academic performance of at least 65% or a 7.0 CPI/CGPA on a 10 point scale.|NA|6 to 8 weeks|Rs. 2,000 per week
 [SPARK @ IIT Roorkee](http://spark.iitr.ac.in/)|The objective of this programme is to attract and nurture talented undergraduate students across the country.|Feb 29, 2020|Summer 2020|₹2500/week
+[Research Internship @ IIT Indore](http://people.iiti.ac.in/~sdhina/index.php/opportunities1/internshippositions)| pursuing/completed B.E/B.Tech/M.Sc) are available in the area of CFD, Biotechnology and Biomedical Engineering|NA|NA|NA
+[Summer Internship @ IIT BHU](https://internship.iitbhu.ac.in/)|Students, who have completed / will be completing the second year to the pre final year of their academic programmes in 2019-20, shall be eligible|April 01, 2020|May 14 - July 10,2020|scholarship @ Rs. 5,000/- pm and free hostel accommodation during the programme
 
 
 
