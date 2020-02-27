@@ -46,7 +46,7 @@ Offering Institute & Link| Eligibility | Apply By  | Duration  | Stipend/ Financ
 [BioEngineering Summer Training (BEST) Programme 2020 @ IISc](https://www.be.iisc.ac.in/BEST.html)|The programme is open to Undergraduates in their second or third year|Feb 14, 2020| 25th May 2020 to 24th July 2020|Fellowship amount of Rs.15,000.00 at the end of the program
 [IITBhubaneswar](https://www.iitbbs.ac.in/internship.php)|NA|NA|NA|NA
 [Internship Programme for Winter @ IITBhubaneswar](http://webapps.iitbbs.ac.in/internship-application/index.php)|NA|NA|NA|NA
-[Young Innovator Program @ IIT Jodhpur](http://iitj.ac.in/institute/index.php?id=young_innovator_program)|Students must have completed their IIIrd  Semester of B.E., B.Tech., B.Tech.-M.Tech. Dual Degree with academic performance of at least 65% or a 7.0 CPI/CGPA on a 10 point scale.|NA|NA|NA
+[Young Innovator Program @ IIT Jodhpur](http://iitj.ac.in/institute/index.php?id=young_innovator_program)|Students must have completed their IIIrd  Semester of B.E., B.Tech., B.Tech.-M.Tech. Dual Degree with academic performance of at least 65% or a 7.0 CPI/CGPA on a 10 point scale.|NA|6 to 8 weeks|Rs. 2,000 per week
 [SPARK @ IIT Roorkee](http://spark.iitr.ac.in/)|The objective of this programme is to attract and nurture talented undergraduate students across the country.|Feb 29, 2020|Summer 2020|₹2500/week
 
 
