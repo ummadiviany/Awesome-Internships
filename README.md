@@ -38,15 +38,19 @@ Offering Institute & Link| Eligibility | Apply By  | Duration  | Stipend/ Financ
 
 
 ## **NIT Internships**
-
+Offering Institute & Link| Eligibility | Apply By  | Duration  | Stipend/ Financial Aid | 
+-------------------------|-------------|-----------|-----------|-----------------------|
+[Summer Internships @ NIT TIRUCHIRAPALLI](https://www.nitt.edu/home/rc/Summer-Internship-2020.pdf)|All UG Students|March 30, 2020|May -July|NA
 
 
 
 ## **IIIT Internships**
 Offering Institute & Link| Eligibility | Apply By  | Duration  | Stipend/ Financial Aid | 
 -------------------------|-------------|-----------|-----------|-----------------------|
-[Summer Internships @ IIITD](https://www.iiitd.ac.in/placement/summer-internships#)|Undergraduates|March 31, 2020|internship will commence from 6th May 2020.| 5000/- per month
+[Summer Internships @ IIITD](https://www.iiitd.ac.in/placement/summer-internships#)|All UG Students|March 31, 2020|internship will commence from 6th May 2020.| 5000/- per month
 
 
 
 ## **Research Internships**
+Offering Institute & Link| Eligibility | Apply By  | Duration  | Stipend/ Financial Aid | 
+-------------------------|-------------|-----------|-----------|-----------------------|
