@@ -33,6 +33,8 @@ Offering Institute & Link| Eligibility | Apply By  | Duration  | Stipend/ Financ
 [Ekalavya Summer Internship 2020 IIT Bombay](https://www.it.iitb.ac.in/summerinternship2020/)| B.Tech./B.E. 3rd year,  2nd year Students with exceptional academic performance |March 01, 2020|18th May 2020 to  07th July 2019|Rs. 10,000/- 
 [IIT(ISM) Dhanbad](https://www.iitism.ac.in//uploads/news_events/admin/03-02-2020-04:02:39_notices.pdf)|CGPA ≥7.5 for IITs/IIScb. CGPA ≥ 8.0 for NITs/ IISERs/ NISER/IIESTc.  CGPA ≥ 8.5 for students of other institutes.|NA| 8 weeks|  Rs  10,000/-for 08 weeks duration
 [SIRP IITGN](https://srip.iitgn.ac.in/info/)|Students pursuing a bachelor’s or master’s degree at a prominent institution in India. |March 06, 2020|8 weeks|Weekly stipend of Rs. 2000 during the internship.
+[Dept of CSE @ IIT Hyderabad](https://cse.iith.ac.in/admissions/internships.html)|The candidate must be from CSE, IT, EE, ECE background.2nd year candidates with exceptional academic performance are also considered|March 20, 2020|8 to 10 weeks|Only provided If faculty has a funding project
+[Dept of EE @ IIT Hyderabad](https://ee.iith.ac.in/intern.html)|The candidates from EE, ECE and EI background, and who are currently in 3rd year of their program are eligible to apply. Exceptional candidates in the 2nd year of BTech program, and 4/5th year of reputed Integrated MSc programs are also eligible to apply.|March 21, 2020| 8 weeks|Only provided If faculty has a funding project
 
 
 
