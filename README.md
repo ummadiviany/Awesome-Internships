@@ -39,6 +39,8 @@ Offering Institute & Link| Eligibility | Apply By  | Duration  | Stipend/ Financ
 [SURGE @ IIT Kanpur](http://surge.iitk.ac.in/)|B.Tech/BE/B-Arch/BS (3rd year completed)|Feb 26, 2020|08 weeks|Rs 12,500/- for 08 weeks duration
 [Summer Internship @ IIT Kharagpur](https://cse.iitkgp.ac.in/?summerinterns.html)|All UG Students|March 31, 2020|2 Months|Sponsored by Microsoft Research India
 [SFRP 2020 @ IIT Delhi](http://cepqip.iitd.ac.in/SFRP-2020.php)|Any undergraduate student who has completed/ appeared in 3rd year examination of his/her four year UG degree|April 07, 2020|19th May 2020 to 10th July 2020|Cost of travel (max. 3rd AC train fare),Stay at IIT Delhi,Fellowship/contingency of ₹500/- per week (Max. upto ₹2000/- only)
+[Summer Internship @ IIT Mandi](http://www.iitmandi.ac.in/academics/internship.php)|Second year of B.Tech. / B.E. students and 1st year PG or Masters Students.|April 30, 2020|8 weeks| Rs.10,000/- for entire 8 weeks.
+[Summer Internship @ IIT Ropar](http://www.iitrpr.ac.in/summer-internship/Application-Form)|All UG Students|NA|5 to 8 weeks|Rs.5000/- per month
 
 
 
