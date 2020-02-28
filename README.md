@@ -14,6 +14,7 @@
 
 * Hi! Please kindly consider starring this repo (top right corner) to help it grow and make revisiting it easier for you
 * Helpful sites to find internships are [Internshala](https://internshala.com/), [LinkedIn](https://www.linkedin.com/),  [Indeed](https://www.indeed.co.in/),[ Glassdoor](https://www.glassdoor.co.in/index.htm), [StackOverflow](https://stackoverflow.com/jobs) and [AngelList (startups)](https://angel.co/)
+* Link to other Intership Programmes [https://github.com/himahuja/Research-Internships-for-Undergraduates](https://github.com/himahuja/Research-Internships-for-Undergraduates)
 
 This repository will help you to provide the internships fro Undergraduates and Post Graduate Students across India. This repo only contains internships from IITs,NITs,IIITs,Research Labs, etc .Apart from that I am adding some internships in the following areas:
 * Artificial Intelligenece
