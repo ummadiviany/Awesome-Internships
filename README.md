@@ -1,4 +1,4 @@
-# Awesome-Internships
+# Awesome-Internships-2020
 
 - [Awesome-Internships](#awesome-internships)
   - [**IIT Internships**](#iit-internships)
@@ -6,8 +6,9 @@
   - [**IIIT Internships**](#iiit-internships)
   - [**Research Internships**](#research-internships)
   - [**GOI Internships**](#goi-internships)
+  - [**General**](#general)
 
-## Genereal
+## General
 
 * Hi! Please kindly consider starring this repo (top right corner) to help it grow and make revisiting it easier for you
 * Helpful sites to find internships are [Internshala](https://internshala.com/), [LinkedIn](https://www.linkedin.com/),  [Indeed](https://www.indeed.co.in/),[ Glassdoor](https://www.glassdoor.co.in/index.htm), [StackOverflow](https://stackoverflow.com/jobs) and [AngelList (startups)](https://angel.co/)
