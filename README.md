@@ -71,6 +71,7 @@ Offering Institute & Link| Eligibility | Apply By  | Duration  | Stipend/ Financ
 ## **Research Internships**
 Offering Institute & Link| Eligibility | Apply By  | Duration  | Stipend/ Financial Aid | 
 -------------------------|-------------|-----------|-----------|-----------------------|
+[MT-NLP Lab @ IIIT Hyderabad](https://ltrc.iiit.ac.in/nlpmt/internship_form.php)|3rd year of B.Tech CSE/ECE|April|Summer 2020|NA
 
 ## **GOI Internships**
 Offering Institute & Link| Eligibility | Apply By  | Duration  | Stipend/ Financial Aid | 
