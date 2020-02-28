@@ -1,13 +1,12 @@
 # Awesome-Internships
-Authors of this page are [Vinay](https://www.linkedin.com/in/vinay-u-77100a139/) ,[Irfan](https://www.linkedin.com/in/p-irfan-basha-2a4864144/) ,[Althaf](https://www.linkedin.com/in/althaf-s-082b2a129/) 
-## **Table of Contents:**
+The Contributors of this page are [Vinay](https://www.linkedin.com/in/vinay-u-77100a139/) ,[Irfan](https://www.linkedin.com/in/p-irfan-basha-2a4864144/) ,[Althaf](https://www.linkedin.com/in/althaf-s-082b2a129/) 
 
 - [Awesome-Internships](#awesome-internships)
-  - [**Table of Contents:**](#table-of-contents)
   - [**IIT Internships**](#iit-internships)
   - [**NIT Internships**](#nit-internships)
   - [**IIIT Internships**](#iiit-internships)
   - [**Research Internships**](#research-internships)
+  - [**GOI Internships**](#goi-internships)
 
 
 
@@ -50,6 +49,7 @@ Offering Institute & Link| Eligibility | Apply By  | Duration  | Stipend/ Financ
 [SPARK @ IIT Roorkee](http://spark.iitr.ac.in/)|The objective of this programme is to attract and nurture talented undergraduate students across the country.|Feb 29, 2020|Summer 2020|₹2500/week
 [Research Internship @ IIT Indore](http://people.iiti.ac.in/~sdhina/index.php/opportunities1/internshippositions)| pursuing/completed B.E/B.Tech/M.Sc) are available in the area of CFD, Biotechnology and Biomedical Engineering|NA|NA|NA
 [Summer Internship @ IIT BHU](https://internship.iitbhu.ac.in/)|Students, who have completed / will be completing the second year to the pre final year of their academic programmes in 2019-20, shall be eligible|April 01, 2020|May 14 - July 10,2020|scholarship @ Rs. 5,000/- pm and free hostel accommodation during the programme
+[Summer Internship 2020 @ IIT Guwahati](https://www.iitg.ac.in/civil/site/?page_id=181)| 3rd Year of their B.E./B.Tech. degree in Civil Engineering are eligible for this program|March 10, 2020|Summer 2020|Only provided If faculty has a funding project
 
 
 
@@ -71,3 +71,8 @@ Offering Institute & Link| Eligibility | Apply By  | Duration  | Stipend/ Financ
 ## **Research Internships**
 Offering Institute & Link| Eligibility | Apply By  | Duration  | Stipend/ Financial Aid | 
 -------------------------|-------------|-----------|-----------|-----------------------|
+
+## **GOI Internships**
+Offering Institute & Link| Eligibility | Apply By  | Duration  | Stipend/ Financial Aid | 
+-------------------------|-------------|-----------|-----------|-----------------------|
+[CSIR–CENTRAL MECHANICAL ENGINEERING RESEARCH INSTITUTE Durgapur](https://www.cmeri.res.in/summer-internship-under-graduate-engineering-students)|  students who  would  be completing 6thSemester of their B.E/B.Techcourses by May/June, 2020 at IITs, NITs and other reputed Universities and Engineering Colleges|March 31, 2020|4 to 8 weeks|NA
