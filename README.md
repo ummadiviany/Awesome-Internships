@@ -3,6 +3,7 @@
 - [Awesome-Internships](#awesome-internships)
   - [**General**](#general)
   - [**Contributions**](#Contributions)
+  - [**2021 Summer Internhips**](#2021-internships)
   - [**IIT Internships**](#iit-internships)
   - [**NIT Internships**](#nit-internships)
   - [**IIIT Internships**](#iiit-internships)
@@ -30,9 +31,17 @@ This repository will help you to provide the internships fro Undergraduates and 
  2.   Edit README.md ([Markdown cheatsheet](https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md))
  3.   Open a pull request!
 
-The contributors of this page are [@Vinay](https://www.linkedin.com/in/vinay-u-77100a139/) ,[@Irfan](https://www.linkedin.com/in/p-irfan-basha-2a4864144/) ,[@Althaf](https://www.linkedin.com/in/althaf-s-082b2a129/) 
+The contributors of this page are [@Vinay](https://www.linkedin.com/in/vinay-u-77100a139/)
 
+## **2021 Internships**
+Offering Institute & Link| Eligibility | Apply By  | Duration  | Stipend/ Financial Aid | 
+-------------------------|-------------|-----------|-----------|-----------------------|
+[IIT Kanpur SURGE Summer Internship Program 2021](https://surge.iitk.ac.in/index.php)| III rd and IV th year of their B.Tech degree|February 22, 2021| 08 weeks duration| Rs 12,500/- for 08 weeks duration
+[IIT Roorkee SPARK 2021](https://spark.iitr.ac.in/)| III rd and IV th year of their B.Tech degree| 10th March, 2021|-- | ₹2500/week
+[Summer Internships Offered @ IIITD](https://www.iiitd.ac.in/placement/summer-internships)|III rd and IV th year of their B.Tech degree|31st March 2021|2 or 3 Months | 5000 per month|
+[Max Planck Summer Internship Program 2021](https://imprs-ls.opencampus.net/en/MaxSIP)|Biology, Chemistry, Bioinformatics, Biophysics, Neuroscience and related fields|February 15th, 2021|10 weeks , mid-June to mid-September|Fully Funded
 
+https://www.csestack.org/summer-internship-iit-nit-iiit-apply/
 
 ## **IIT Internships**
 
