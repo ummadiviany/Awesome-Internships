@@ -40,6 +40,7 @@ Offering Institute & Link| Eligibility | Apply By  | Duration  | Stipend/ Financ
 [IIT Roorkee SPARK 2021](https://spark.iitr.ac.in/)| III rd and IV th year of their B.Tech degree| 10th March, 2021|-- | ₹2500/week
 [Summer Internships Offered @ IIITD](https://www.iiitd.ac.in/placement/summer-internships)|III rd and IV th year of their B.Tech degree|31st March 2021|2 or 3 Months | 5000 per month|
 [Max Planck Summer Internship Program 2021](https://imprs-ls.opencampus.net/en/MaxSIP)|Biology, Chemistry, Bioinformatics, Biophysics, Neuroscience and related fields|February 15th, 2021|10 weeks , mid-June to mid-September|Fully Funded
+[Summer Internship@IIT Ropar](https://onlineportal.iitrpr.ac.in/sia-21)|Engineering Departments |April 16 ,2021 | 5 to 8 weeks May-July | Virtual Mode NA|
 
 https://www.csestack.org/summer-internship-iit-nit-iiit-apply/
 
