@@ -1,4 +1,4 @@
-# Awesome-Internships-2020
+# Awesome-Internships-2021
 
 - [Awesome-Internships](#awesome-internships)
   - [**General**](#general)
