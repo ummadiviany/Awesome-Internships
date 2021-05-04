@@ -45,6 +45,8 @@ Offering Institute & Link| Eligibility | Apply By  | Duration  | Stipend/ Financ
 [SIRP IIT Gandhinagar](srip.iitgn.ac.in/info)|Students pursuing a bachelors’ or masters’ degree|April 26, 2021|Minimum duration of 8 weeks between May 6 to July 15, 2021|Online Mode, No Stipend | 
 [Summer Internship@IIT Bhubaneswar](https://webapps.iitbbs.ac.in/internship-application/index.php)|Basic Sciences & Engineering Departments|May 7, 2021|3 to 8 weeks |NA|
 [Online Summer Internship Program@IIIT Allahabad](https://internship.iiita.ac.in/)|Engineering departments|May 17, 2021|6 to 8 weeks|Compulsory Registration Fee: Rs. 5000/ + 18% of GST i.e. Rs. 900/ = (Total Rs. 5900/-)|
+[Summer Internship Program 2021 @ IISER Bhopal](https://www.iiserb.ac.in/assets/off_academic_affairs/forms_and_formats/IISERB_Summer_Internship_2021.pdf)|basic  sciences, engineering sciences and economic sciences|May 10 ,2021| 4 to 8 weeks between May 25 and July 25| NA|
+
 
 
 
