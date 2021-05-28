@@ -36,7 +36,9 @@ The contributors of this page are [@Vinay](https://www.linkedin.com/in/vinay-u-7
 ## **2021 Internships**
 Offering Institute & Link| Eligibility | Apply By  | Duration  | Stipend/ Financial Aid | 
 -------------------------|-------------|-----------|-----------|-----------------------|
-[Summer Internship 2021 @ IIT Indore](https://www.iiti.ac.in/public/storage/events/May2021/Vritika.pdf)|PG students from universities, colleges, private academic institutions|May 30, 2021|04 Weeks, 01-30 June 2021|NA
+[Internship 2021 @ IIT Jammu](https://iitjammu.ac.in/Advertisements/Contract/Advt-IITJmuRCAdvt202113.pdf)|B.E./B.Tech. or  M.E./M.   Tech./M.S./M.S.(R) in ECE|May 30, 2021|04 Weeks, June-July 2021|NA
+[Internship 2021 @ IIT Indore](https://www.iiti.ac.in/public/storage/events/May2021/Vritika.pdf)|PG students from universities, colleges, private academic institutions|May 30, 2021|04 Weeks, 01-30 June 2021|NA
+[Summer Research Programme 2021 @ IISER Kolkata](https://www.iiserkol.ac.in/~summer.research/)|B.Sc., M.Sc., B.S., M.S., B.Tech., and B.E.|06 May, 2021|08 Weeks in May-July 2021|NA
 [IIT Kanpur SURGE Summer Internship Program 2021](https://surge.iitk.ac.in/index.php)| III rd and IV th year of their B.Tech degree|February 22, 2021| 08 weeks duration| Rs 12,500/- for 08 weeks duration
 [IIT Roorkee SPARK 2021](https://spark.iitr.ac.in/)| III rd and IV th year of their B.Tech degree| 10th March, 2021|-- | ₹2500/week
 [Summer Internships Offered @ IIITD](https://www.iiitd.ac.in/placement/summer-internships)|III rd and IV th year of their B.Tech degree|31st March 2021|2 or 3 Months | 5000 per month|
