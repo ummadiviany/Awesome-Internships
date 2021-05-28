@@ -1,4 +1,4 @@
-# Awesome-Internships-2020
+# Awesome-Internships-2021
 
 - [Awesome-Internships](#awesome-internships)
   - [**General**](#general)
@@ -40,8 +40,15 @@ Offering Institute & Link| Eligibility | Apply By  | Duration  | Stipend/ Financ
 [IIT Roorkee SPARK 2021](https://spark.iitr.ac.in/)| III rd and IV th year of their B.Tech degree| 10th March, 2021|-- | ₹2500/week
 [Summer Internships Offered @ IIITD](https://www.iiitd.ac.in/placement/summer-internships)|III rd and IV th year of their B.Tech degree|31st March 2021|2 or 3 Months | 5000 per month|
 [Max Planck Summer Internship Program 2021](https://imprs-ls.opencampus.net/en/MaxSIP)|Biology, Chemistry, Bioinformatics, Biophysics, Neuroscience and related fields|February 15th, 2021|10 weeks , mid-June to mid-September|Fully Funded
+[Summer Internship Program (SIP 2021)@IIT Jodhpur](https://iitj.ac.in/uploaded_docs/iitj_summer_internship_flyier_25032021.pdf)|Undergraduate(After 5th semester) and Postgraduate students|April 10, 2021|Up to 8 Weeks starting from May 15th 2021|INR 1500 per week
+[Summer Internship@IIT Ropar](https://onlineportal.iitrpr.ac.in/sia-21)|Engineering Departments |April 16 ,2021 | 5 to 8 weeks May-July | Virtual Mode NA|
+[SIRP IIT Gandhinagar](srip.iitgn.ac.in/info)|Students pursuing a bachelors’ or masters’ degree|April 26, 2021|Minimum duration of 8 weeks between May 6 to July 15, 2021|Online Mode, No Stipend | 
+[Summer Internship@IIT Bhubaneswar](https://webapps.iitbbs.ac.in/internship-application/index.php)|Basic Sciences & Engineering Departments|May 7, 2021|3 to 8 weeks |NA|
+[Online Summer Internship Program@IIIT Allahabad](https://internship.iiita.ac.in/)|Engineering departments|May 17, 2021|6 to 8 weeks|Compulsory Registration Fee: Rs. 5000/ + 18% of GST i.e. Rs. 900/ = (Total Rs. 5900/-)|
+[Summer Internship Program 2021 @ IISER Bhopal](https://www.iiserb.ac.in/assets/off_academic_affairs/forms_and_formats/IISERB_Summer_Internship_2021.pdf)|basic  sciences, engineering sciences and economic sciences|May 10 ,2021| 4 to 8 weeks between May 25 and July 25| NA|
 
-https://www.csestack.org/summer-internship-iit-nit-iiit-apply/
+
+
 
 ## **IIT Internships**
 
