@@ -1,9 +1,11 @@
 # Awesome-Internships-2021
 
-- [Awesome-Internships](#awesome-internships)
-  - [**General**](#general)
-  - [**Contributions**](#Contributions)
-  - [**2021 Summer Internhips**](#2021-internships)
+- [Awesome-Internships-2021](#awesome-internships-2021)
+  - [General](#general)
+  - [Contributions](#contributions)
+    - [How to contribute](#how-to-contribute)
+  - [**2022 Internships**](#2022-internships)
+  - [**2021 Internships**](#2021-internships)
   - [**IIT Internships**](#iit-internships)
   - [**NIT Internships**](#nit-internships)
   - [**IIIT Internships**](#iiit-internships)
@@ -32,6 +34,12 @@ This repository will help you to provide the internships fro Undergraduates and 
  3.   Open a pull request!
 
 The contributors of this page are [@Vinay](https://www.linkedin.com/in/vinay-u-77100a139/)
+
+## **2022 Internships**
+Offering Institute & Link| Eligibility | Apply By  | Duration  | Stipend/ Financial Aid | 
+-------------------------|-------------|-----------|-----------|-----------------------|
+[SURGE 2022 @ IIT Kanpur](http://surge.iitk.ac.in/)| |February 2, 2022|13th May, 2022 - 14th July, 2022.|12,500
+[SPARK 2022 @ IIT Roorkee](https://spark.iitr.ac.in/)|B.Arch./B.E./B.Tech./M.Sc|Starting soon|Summer 2022|₹2500/week
 
 ## **2021 Internships**
 Offering Institute & Link| Eligibility | Apply By  | Duration  | Stipend/ Financial Aid | 
