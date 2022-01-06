@@ -1,16 +1,17 @@
-# Awesome-Internships-2021
+# Awesome-Internships
 
-- [Awesome-Internships-2021](#awesome-internships-2021)
+
+- [Awesome-Internships](#awesome-internships)
   - [General](#general)
   - [Contributions](#contributions)
     - [How to contribute](#how-to-contribute)
   - [**2022 Internships**](#2022-internships)
-  - [**2021 Internships**](#2021-internships)
-  - [**IIT Internships**](#iit-internships)
-  - [**NIT Internships**](#nit-internships)
-  - [**IIIT Internships**](#iiit-internships)
-  - [**Research Internships**](#research-internships)
-  - [**GOI Internships**](#goi-internships)
+  - [2021 Internships](#2021-internships)
+  - [IIT Internships](#iit-internships)
+  - [NIT Internships](#nit-internships)
+  - [IIIT Internships](#iiit-internships)
+  - [Research Internships](#research-internships)
+  - [GOI Internships](#goi-internships)
   
 
 ## General
@@ -19,11 +20,11 @@
 * Helpful sites to find internships are [Internshala](https://internshala.com/), [LinkedIn](https://www.linkedin.com/),  [Indeed](https://www.indeed.co.in/),[ Glassdoor](https://www.glassdoor.co.in/index.htm), [StackOverflow](https://stackoverflow.com/jobs) and [AngelList (startups)](https://angel.co/)
 * Link to other Intership Programmes [https://github.com/himahuja/Research-Internships-for-Undergraduates](https://github.com/himahuja/Research-Internships-for-Undergraduates)
 
-This repository will help you to provide the internships fro Undergraduates and Post Graduate Students across India. This repo only contains internships from IITs,NITs,IIITs,Research Labs, etc .Apart from that I am adding some internships in the following areas:
+This repository will help you to provide the internships for Undergraduates and Post Graduate Students across India. This repo only contains internships from IITs,NITs,IIITs,Research Labs, etc. Apart from that I am adding some internships in the following areas:
 * Artificial Intelligenece
 * Machine Learning
 * Deep Learning
-* Computer Vison
+* Computer Visons
 * Natural Language Processing
 * Robotics
   
@@ -41,7 +42,7 @@ Offering Institute & Link| Eligibility | Apply By  | Duration  | Stipend/ Financ
 [SURGE 2022 @ IIT Kanpur](http://surge.iitk.ac.in/)| |February 2, 2022|13th May, 2022 - 14th July, 2022.|12,500
 [SPARK 2022 @ IIT Roorkee](https://spark.iitr.ac.in/)|B.Arch./B.E./B.Tech./M.Sc|Starting soon|Summer 2022|₹2500/week
 
-## **2021 Internships**
+## 2021 Internships
 Offering Institute & Link| Eligibility | Apply By  | Duration  | Stipend/ Financial Aid | 
 -------------------------|-------------|-----------|-----------|-----------------------|
 [Internship 2021 @ IIT Jammu](https://iitjammu.ac.in/Advertisements/Contract/Advt-IITJmuRCAdvt202113.pdf)|B.E./B.Tech. or  M.E./M.   Tech./M.S./M.S.(R) in ECE|May 30, 2021|04 Weeks, June-July 2021|NA
@@ -61,7 +62,7 @@ Offering Institute & Link| Eligibility | Apply By  | Duration  | Stipend/ Financ
 
 
 
-## **IIT Internships**
+## IIT Internships
 
 Offering Institute & Link| Eligibility | Apply By  | Duration  | Stipend/ Financial Aid | 
 -------------------------|-------------|-----------|-----------|-----------------------|
@@ -92,21 +93,21 @@ Offering Institute & Link| Eligibility | Apply By  | Duration  | Stipend/ Financ
 
 
 
-## **NIT Internships**
+## NIT Internships
 Offering Institute & Link| Eligibility | Apply By  | Duration  | Stipend/ Financial Aid | 
 -------------------------|-------------|-----------|-----------|-----------------------|
 [Summer Internships @ NIT TIRUCHIRAPALLI](https://www.nitt.edu/home/rc/Summer-Internship-2020.pdf)|All UG Students|March 30, 2020|May -July|NA
 
 
 
-## **IIIT Internships**
+## IIIT Internships
 Offering Institute & Link| Eligibility | Apply By  | Duration  | Stipend/ Financial Aid | 
 -------------------------|-------------|-----------|-----------|-----------------------|
 [Summer Internships @ IIITD](https://www.iiitd.ac.in/placement/summer-internships#)|All UG Students|March 31, 2020|internship will commence from 6th May 2020.| 5000/- per month
 
 
 
-## **Research Internships**
+## Research Internships
 Offering Institute & Link| Eligibility | Apply By  | Duration  | Stipend/ Financial Aid | 
 -------------------------|-------------|-----------|-----------|-----------------------|
 [MT-NLP Lab @ IIIT Hyderabad](https://ltrc.iiit.ac.in/nlpmt/internship_form.php)|3rd year of B.Tech CSE/ECE|April|Summer 2020|NA
@@ -120,7 +121,7 @@ Offering Institute & Link| Eligibility | Apply By  | Duration  | Stipend/ Financ
 [SSERD Research Internship](https://www.sserd.org/internship/) | for research work in topics like Space Settlement, Astrophysics, Space Mission Design etc.
 
 
-## **GOI Internships**
+## GOI Internships
 Offering Institute & Link| Eligibility | Apply By  | Duration  | Stipend/ Financial Aid | 
 -------------------------|-------------|-----------|-----------|-----------------------|
 [CSIR–CENTRAL MECHANICAL ENGINEERING RESEARCH INSTITUTE Durgapur](https://www.cmeri.res.in/summer-internship-under-graduate-engineering-students)|  students who  would  be completing 6thSemester of their B.E/B.Techcourses by May/June, 2020 at IITs, NITs and other reputed Universities and Engineering Colleges|March 31, 2020|4 to 8 weeks|NA
