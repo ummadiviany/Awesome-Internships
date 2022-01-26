@@ -41,6 +41,7 @@ Offering Institute & Link| Eligibility | Apply By  | Duration  | Stipend/ Financ
 -------------------------|-------------|-----------|-----------|-----------------------|
 [SURGE 2022 @ IIT Kanpur](http://surge.iitk.ac.in/)| |February 2, 2022|13th May, 2022 - 14th July, 2022.|12,500
 [SPARK 2022 @ IIT Roorkee](https://spark.iitr.ac.in/)|B.Arch./B.E./B.Tech./M.Sc|Starting soon|Summer 2022|₹2500/week
+[Computer Vision Center Internship Program 2022](http://www.cvc.uab.es/?page_id=4106)|Undergrad & Graduate|February 13, 2022| 3 Months | Fully Funded
 
 ## 2021 Internships
 Offering Institute & Link| Eligibility | Apply By  | Duration  | Stipend/ Financial Aid | 
