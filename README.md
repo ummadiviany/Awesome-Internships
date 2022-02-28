@@ -34,7 +34,7 @@ This repository will help you to provide the internships for Undergraduates and 
  2.   Edit README.md ([Markdown cheatsheet](https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md))
  3.   Open a pull request!
 
-The contributors of this page are [@Vinay](https://www.linkedin.com/in/vinay-u-77100a139/)
+The contributors of this page are [@Vinay](https://ummadiviany.github.io/)
 
 ## **2022 Internships**
 Offering Institute & Link| Eligibility | Apply By  | Duration  | Stipend/ Financial Aid | 
@@ -42,6 +42,9 @@ Offering Institute & Link| Eligibility | Apply By  | Duration  | Stipend/ Financ
 [SURGE 2022 @ IIT Kanpur](http://surge.iitk.ac.in/)| |February 2, 2022|13th May, 2022 - 14th July, 2022.|12,500
 [SPARK 2022 @ IIT Roorkee](https://spark.iitr.ac.in/)|B.Arch./B.E./B.Tech./M.Sc|Starting soon|Summer 2022|₹2500/week
 [Computer Vision Center Internship Program 2022](http://www.cvc.uab.es/?page_id=4106)|Undergrad & Graduate|February 13, 2022| 3 Months | Fully Funded
+[Summer Internships @ IIIT-Delhi 2022](https://www.iiitd.ac.in/placement/summer-internships) |Undergraduates | March 31, 2022| 3 Months | ₹5000/month
+[Summer Intership @ IIIT Allahabd](https://internship.iiita.ac.in/)|Undergraduates | May 16, 2022| 6 to 8 Weeks | Regestraion Fee : ₹5000
+[SIRP @ IIT Gandhinagar](https://srip.iitgn.ac.in/info/srip-2022/)|Undergraduates | Will be updated soon | Will be updated soon | Will be updated soon
 
 ## 2021 Internships
 Offering Institute & Link| Eligibility | Apply By  | Duration  | Stipend/ Financial Aid | 
