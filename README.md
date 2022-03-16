@@ -46,6 +46,8 @@ Offering Institute & Link| Eligibility | Apply By  | Duration  | Stipend/ Financ
 [Summer Intership @ IIIT Allahabd](https://internship.iiita.ac.in/)|Undergraduates | May 16, 2022| 6 to 8 Weeks | Regestraion Fee : ₹5000
 [SIRP @ IIT Gandhinagar](https://srip.iitgn.ac.in/info/srip-2022/)|Undergraduates | Will be updated soon | Will be updated soon | Will be updated soon
 [Summer Research Internship Program (SRISHTI - 22) @ IIITH](https://ihub-data.iiit.ac.in/programs/en/node/2) | Undergraduates | March 06, 2022| ~ 8 Weeks | ₹10000/month
+[Summer Fellowship Programme 2022 @ IIT Madras]()| 3rd year of B.E./B.Tech./B.Sc. (Engg) or 3rd or 4th year of Integrated M.E./M.Tech. programme, 1st year of ME/M.Tech/M.Sc./M.A, MBA with outstanding academic background |April 06, 2022 | 23rd May 2022 to 22nd July 2022 | 6000 INR/month
+[Virtual Summer Internship @ IIT Indore](https://onlineportal.iitrpr.ac.in/sites/default/files/Advertisement%20for%20Summer%20Internship%202022.pdf)| Undergraduates | April 15, 2022 |5 to 8 weeks (May-July) | No financial aid
 
 ## 2021 Internships
 Offering Institute & Link| Eligibility | Apply By  | Duration  | Stipend/ Financial Aid | 
