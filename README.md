@@ -38,7 +38,7 @@ The contributors of this page are [@Vinay](https://ummadiviany.github.io/)
 
 ## **2022 Internships**
 
-External Internship with **Me([Vinay](https://ummadiviany.github.io/))**!!. Yes I am recurting two interns this summer and they are fully paid internships. I am working on idea and looking for Full stack development intern (1) and Mobile Application developemnt intern (1). The **Stipend: INR 10000 + Performance Incentive (max + INR 5000)**. The only requirements are you should have worked projects in relevant areas and developed something out of it. Your projects and work will be the key criteria for selection. If your are an extraordinary candidate then you will also be offered equity in our startup. Apply here : **[Application Form](https://bit.ly/3F46yH5)**
+External Internship with **Me([Vinay](https://ummadiviany.github.io/))**!!. Yes I am recurting two interns this summer and they are fully paid internships. I am working on an idea and looking for Full stack development intern - (1) and Mobile Application developemnt intern - (1). The **Stipend: INR 10000 + Performance Incentive (max + INR 5000)** per month. The only requirements are you should have worked projects in relevant areas and developed something out of it. Your projects and work will be the key criteria for selection. If your are an extraordinary candidate then you will also be offered equity in our startup. Apply here : **[Application Form](https://bit.ly/3F46yH5)**
 
 Offering Institute & Link| Eligibility | Apply By  | Duration  | Stipend/ Financial Aid | 
 -------------------------|-------------|-----------|-----------|-----------------------|
