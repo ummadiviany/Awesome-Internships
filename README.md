@@ -51,6 +51,10 @@ Offering Institute & Link| Eligibility | Apply By  | Duration  | Stipend/ Financ
 [Summer Research Internship Program (SRISHTI - 22) @ IIITH](https://ihub-data.iiit.ac.in/programs/en/node/2) | Undergraduates | March 06, 2022| ~ 8 Weeks | ₹10000/month
 [Summer Fellowship Programme 2022 @ IIT Madras]()| 3rd year of B.E./B.Tech./B.Sc. (Engg) or 3rd or 4th year of Integrated M.E./M.Tech. programme, 1st year of ME/M.Tech/M.Sc./M.A, MBA with outstanding academic background |April 06, 2022 | 23rd May 2022 to 22nd July 2022 | 6000 INR/month
 [Virtual Summer Internship @ IIT Indore](https://onlineportal.iitrpr.ac.in/sites/default/files/Advertisement%20for%20Summer%20Internship%202022.pdf)| Undergraduates | April 15, 2022 |5 to 8 weeks (May-July) | No financial aid
+[HPC Summer Internship @ IIT Goa 2022](https://iitgoa.ac.in/hpc-summer-internship/)| UG (Second year and above) and PG (MS/MTech/MSc) | May 11, 2022 | Min: 2 Months, Max: 3 Months, June - August | INR 8000/month
+[Summer Internship @ IIT Palakkad 2022](https://sun.iitpkd.ac.in/)|Science, Engineering and Humanities : Undergraduates & Integrated masters students|April 10, 2022|6 weeks, June 1 to July 15|INR 6000/month
+[Summer Internship @ IIT Ropar 2022](https://onlineportal.iitrpr.ac.in/summer-internship-2022)|Undergraduates|April 15, 2022|5 to 8 weeks|No financial support
+
 
 ## 2021 Internships
 Offering Institute & Link| Eligibility | Apply By  | Duration  | Stipend/ Financial Aid | 
