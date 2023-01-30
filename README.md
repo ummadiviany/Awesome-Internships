@@ -41,6 +41,10 @@ The contributors of this page are [@Vinay](https://ummadiviany.github.io/)
 Offering Institute & Link| Eligibility | Apply By  | Duration  | Stipend/ Financial Aid | 
 -------------------------|-------------|-----------|-----------|------------------------|
 [RBCDSAI IIT Madras](https://rbcdsai.iitm.ac.in/work-with-us/#internships)|Pre-final and final year UG and PGs|14 Feb, 2023|Starting from April 2023, 2 to 6 months| Paid [Amount Undisclosed]
+[SURGE @ IIT Kanpur](https://surge.iitk.ac.in/)| Pre final year UGs|15 Feb, 2023|8 weeks, May to July 2023| Paid [10000 for 8 weeks]
+[SRIP @ IIT(ISM) Dhanbad](https://people.iitism.ac.in/~download/news_and_events/notices/06-01-2023-06:01:20_notices.pdf)|Pre-final and final year UGs|28 Feb, 2023|8 weeks in summer 2023| INR 10000 for 8 weeks
+
+
 
 ## 2022 Internships
 
