@@ -5,7 +5,8 @@
   - [General](#general)
   - [Contributions](#contributions)
     - [How to contribute](#how-to-contribute)
-  - [**2022 Internships**](#2022-internships)
+  - [**2023 Internships**](#2023-internships)
+  - [2022 Internships](#2022-internships)
   - [2021 Internships](#2021-internships)
   - [IIT Internships](#iit-internships)
   - [NIT Internships](#nit-internships)
@@ -36,7 +37,12 @@ This repository will help you to provide the internships for Undergraduates and 
 
 The contributors of this page are [@Vinay](https://ummadiviany.github.io/)
 
-## **2022 Internships**
+## **2023 Internships**
+Offering Institute & Link| Eligibility | Apply By  | Duration  | Stipend/ Financial Aid | 
+-------------------------|-------------|-----------|-----------|------------------------|
+[RBCDSAI IIT Madras](https://rbcdsai.iitm.ac.in/work-with-us/#internships)|Pre-final and final year UG and PGs|14 Feb, 2023|Starting from April 2023, 2 to 6 months| Paid [Amount Undisclosed]
+
+## 2022 Internships
 
 External Internship with **Me([Vinay](https://ummadiviany.github.io/))**!!. Yes I am recurting two interns this summer and they are fully paid internships. I am working on an idea and looking for Full stack development intern - (1) and Mobile Application developemnt intern - (1). The **Stipend: INR 10000 + Performance Incentive (max + INR 5000)** per month. The only requirements are you should have worked projects in relevant areas and developed something out of it. Your projects and work will be the key criteria for selection. If your are an extraordinary candidate then you will also be offered equity in our startup. Apply here : **[Application Form](https://bit.ly/3F46yH5)**
 
