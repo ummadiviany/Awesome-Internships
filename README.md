@@ -45,8 +45,10 @@ Offering Institute & Link| Eligibility | Apply By  | Duration  | Stipend/ Financ
 [SRIP @ IIT(ISM) Dhanbad](https://people.iitism.ac.in/~download/news_and_events/notices/06-01-2023-06:01:20_notices.pdf)|Pre-final and final year UGs|28 Feb, 2023|8 weeks in summer 2023| INR 10000 for 8 weeks
 [SRIP @ IIT Gandhinagar](https://srip.iitgn.ac.in/info/srip-2023/)|Students pursuing a bachelor’s or master’s degree|05 March, 2023|8 weeks between May 5 to July 15, 2023|INR 2000 per week and Summer Research Excellence Award of INR 50000
 [SURE @ IIT Hyderabad](https://iith.ac.in/news/2023/02/03/Summer-Undergraduate-Research-Exposure/)|Undergraduate students|22 Feb, 2023|15 May, 2023 to 14 July, 2023| INR 15000 for the duration
-
-
+[IISER Bhopal](https://www.iiserb.ac.in/assets/all_upload/doaa/IISER_Bhopal_Summer_Internship_23.pdf)|Undergraduates and Masters Students|16 April, 2020|25 May, 2023 to 25 July, 2023| NA
+[SPARK @ IIT Roorkee](https://spark.iitr.ac.in/)|Undergraduates and Masters Students|TBA|TBA|2500 per week
+[Summer @ IIT Palakkad](https://sun.iitpkd.ac.in/)|Undergraduates and Masters Students|10 April, 2023|01 June, 2023 to 15 July, 2023|INR 9000
+[Research Experience @ IIT Mandi](https://iitmandi.ac.in/sites/default/files/2023-03/summerintern_july2023.pdf)|Undergraduates|07 April, 2023|05 June, 2023 to 28 July, 2023| NA
 
 ## 2022 Internships
 
